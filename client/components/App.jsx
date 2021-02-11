@@ -4,7 +4,7 @@ import Board from './Board'
 
 function App () {
   return (
-    <div>
+    <div className="parent">
       <Board />
     </div>
   )
